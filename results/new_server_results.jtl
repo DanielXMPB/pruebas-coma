@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1727278650099,1715,sistemas,200,,Grupo de Hilos 1-15,text,true,,140124,379,100,100,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650099,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-15,text,true,,363,126,100,100,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650100,182,sistemas-1,302,,Grupo de Hilos 1-15,,true,,207,126,100,100,https://eisidev01.uis.edu.co/eisi,182,0,174
+1727278650282,1532,sistemas-2,200,,Grupo de Hilos 1-15,text,true,,139554,127,100,100,https://eisidev01.uis.edu.co/eisi/,141,0,0
+1727278650219,1818,sistemas,200,,Grupo de Hilos 1-27,text,true,,140124,379,99,99,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650219,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-27,text,true,,363,126,99,99,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650221,61,sistemas-1,302,,Grupo de Hilos 1-27,,true,,207,126,99,99,https://eisidev01.uis.edu.co/eisi,61,0,57
+1727278650282,1755,sistemas-2,200,,Grupo de Hilos 1-27,text,true,,139554,127,99,99,https://eisidev01.uis.edu.co/eisi/,128,0,0
+1727278650161,1895,sistemas,200,,Grupo de Hilos 1-21,text,true,,140124,379,98,98,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650161,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-21,text,true,,363,126,98,98,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650162,119,sistemas-1,302,,Grupo de Hilos 1-21,,true,,207,126,98,98,https://eisidev01.uis.edu.co/eisi,119,0,117
+1727278650281,1775,sistemas-2,200,,Grupo de Hilos 1-21,text,true,,139554,127,98,98,https://eisidev01.uis.edu.co/eisi/,135,0,0
+1727278650149,1970,sistemas,200,,Grupo de Hilos 1-20,text,true,,140124,379,97,97,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650149,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-20,text,true,,363,126,97,97,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650151,140,sistemas-1,302,,Grupo de Hilos 1-20,,true,,207,126,97,97,https://eisidev01.uis.edu.co/eisi,140,0,132
+1727278650291,1828,sistemas-2,200,,Grupo de Hilos 1-20,text,true,,139554,127,97,97,https://eisidev01.uis.edu.co/eisi/,180,0,0
+1727278650189,1949,sistemas,200,,Grupo de Hilos 1-24,text,true,,140124,379,96,96,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650189,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-24,text,true,,363,126,96,96,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650191,92,sistemas-1,302,,Grupo de Hilos 1-24,,true,,207,126,96,96,https://eisidev01.uis.edu.co/eisi,92,0,85
+1727278650283,1855,sistemas-2,200,,Grupo de Hilos 1-24,text,true,,139554,127,96,96,https://eisidev01.uis.edu.co/eisi/,130,0,0
+1727278650109,2063,sistemas,200,,Grupo de Hilos 1-16,text,true,,140124,379,95,95,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650269,1903,sistemas,200,,Grupo de Hilos 1-32,text,true,,140124,379,95,95,https://eisidev01.uis.edu.co/eisi/,9,0,5
+1727278650109,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-16,text,true,,363,126,95,95,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650269,9,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-32,text,true,,363,126,95,95,http://eisidev01.uis.edu.co/eisi,9,0,5
+1727278650111,179,sistemas-1,302,,Grupo de Hilos 1-16,,true,,207,126,95,95,https://eisidev01.uis.edu.co/eisi,179,0,165
+1727278650278,17,sistemas-1,302,,Grupo de Hilos 1-32,,true,,207,126,95,95,https://eisidev01.uis.edu.co/eisi,17,0,15
+1727278650290,1882,sistemas-2,200,,Grupo de Hilos 1-16,text,true,,139554,127,95,95,https://eisidev01.uis.edu.co/eisi/,217,0,0
+1727278650295,1877,sistemas-2,200,,Grupo de Hilos 1-32,text,true,,139554,127,95,95,https://eisidev01.uis.edu.co/eisi/,243,0,0
+1727278650369,1803,sistemas,200,,Grupo de Hilos 1-42,text,true,,140124,379,95,95,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650369,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-42,text,true,,363,126,95,95,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650371,7,sistemas-1,302,,Grupo de Hilos 1-42,,true,,207,126,95,95,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650379,1793,sistemas-2,200,,Grupo de Hilos 1-42,text,true,,139554,127,95,95,https://eisidev01.uis.edu.co/eisi/,168,0,0
+1727278650080,2101,sistemas,200,,Grupo de Hilos 1-13,text,true,,140124,379,92,92,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650059,2122,sistemas,200,,Grupo de Hilos 1-11,text,true,,140124,379,92,92,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650080,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-13,text,true,,363,126,92,92,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650059,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-11,text,true,,363,126,92,92,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650061,219,sistemas-1,302,,Grupo de Hilos 1-11,,true,,207,126,92,92,https://eisidev01.uis.edu.co/eisi,219,0,214
+1727278650082,208,sistemas-1,302,,Grupo de Hilos 1-13,,true,,207,126,92,92,https://eisidev01.uis.edu.co/eisi,208,0,198
+1727278650281,1900,sistemas-2,200,,Grupo de Hilos 1-11,text,true,,139554,127,92,92,https://eisidev01.uis.edu.co/eisi/,138,0,0
+1727278650290,1891,sistemas-2,200,,Grupo de Hilos 1-13,text,true,,139554,127,92,92,https://eisidev01.uis.edu.co/eisi/,209,0,0
+1727278650119,2093,sistemas,200,,Grupo de Hilos 1-17,text,true,,140124,379,90,90,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650119,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-17,text,true,,363,126,90,90,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650121,170,sistemas-1,302,,Grupo de Hilos 1-17,,true,,207,126,90,90,https://eisidev01.uis.edu.co/eisi,170,0,158
+1727278650291,1921,sistemas-2,200,,Grupo de Hilos 1-17,text,true,,139554,127,90,90,https://eisidev01.uis.edu.co/eisi/,198,0,0
+1727278650309,1907,sistemas,200,,Grupo de Hilos 1-36,text,true,,140124,379,89,89,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650309,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-36,text,true,,363,126,89,89,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650310,8,sistemas-1,302,,Grupo de Hilos 1-36,,true,,207,126,89,89,https://eisidev01.uis.edu.co/eisi,8,0,6
+1727278650318,1898,sistemas-2,200,,Grupo de Hilos 1-36,text,true,,139554,127,89,89,https://eisidev01.uis.edu.co/eisi/,164,0,0
+1727278650319,1900,sistemas,200,,Grupo de Hilos 1-37,text,true,,140124,379,88,88,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650319,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-37,text,true,,363,126,88,88,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650320,9,sistemas-1,302,,Grupo de Hilos 1-37,,true,,207,126,88,88,https://eisidev01.uis.edu.co/eisi,9,0,7
+1727278650020,2199,sistemas,200,,Grupo de Hilos 1-3,text,true,,140118,379,88,88,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650329,1890,sistemas-2,200,,Grupo de Hilos 1-37,text,true,,139554,127,88,88,https://eisidev01.uis.edu.co/eisi/,225,0,0
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-3,text,true,,363,126,88,88,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,238,sistemas-1,302,,Grupo de Hilos 1-3,,true,,207,126,88,88,https://eisidev01.uis.edu.co/eisi,238,0,232
+1727278650284,1935,sistemas-2,200,,Grupo de Hilos 1-3,text,true,,139548,127,88,88,https://eisidev01.uis.edu.co/eisi/,168,0,0
+1727278650252,1977,sistemas,200,,Grupo de Hilos 1-30,text,true,,140124,379,86,86,https://eisidev01.uis.edu.co/eisi/,3,0,3
+1727278650252,3,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-30,text,true,,363,126,86,86,http://eisidev01.uis.edu.co/eisi,3,0,3
+1727278650256,32,sistemas-1,302,,Grupo de Hilos 1-30,,true,,207,126,86,86,https://eisidev01.uis.edu.co/eisi,32,0,27
+1727278650289,1940,sistemas-2,200,,Grupo de Hilos 1-30,text,true,,139554,127,86,86,https://eisidev01.uis.edu.co/eisi/,181,0,0
+1727278650020,2260,sistemas,200,,Grupo de Hilos 1-1,text,true,,140124,379,85,85,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-1,text,true,,363,126,85,85,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,244,sistemas-1,302,,Grupo de Hilos 1-1,,true,,207,126,85,85,https://eisidev01.uis.edu.co/eisi,244,0,230
+1727278650290,1990,sistemas-2,200,,Grupo de Hilos 1-1,text,true,,139554,127,85,85,https://eisidev01.uis.edu.co/eisi/,239,0,0
+1727278650020,2286,sistemas,200,,Grupo de Hilos 1-5,text,true,,140124,379,84,84,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-5,text,true,,363,126,84,84,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,235,sistemas-1,302,,Grupo de Hilos 1-5,,true,,207,126,84,84,https://eisidev01.uis.edu.co/eisi,235,0,232
+1727278650281,2025,sistemas-2,200,,Grupo de Hilos 1-5,text,true,,139554,127,84,84,https://eisidev01.uis.edu.co/eisi/,183,0,0
+1727278650283,2042,sistemas,200,,Grupo de Hilos 1-33,text,true,,140124,379,83,83,https://eisidev01.uis.edu.co/eisi/,5,0,1
+1727278650283,5,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-33,text,true,,363,126,83,83,http://eisidev01.uis.edu.co/eisi,5,0,1
+1727278650289,10,sistemas-1,302,,Grupo de Hilos 1-33,,true,,207,126,83,83,https://eisidev01.uis.edu.co/eisi,10,0,8
+1727278650299,2026,sistemas-2,200,,Grupo de Hilos 1-33,text,true,,139554,127,83,83,https://eisidev01.uis.edu.co/eisi/,199,0,0
+1727278650130,2222,sistemas,200,,Grupo de Hilos 1-18,text,true,,140124,379,82,82,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650130,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-18,text,true,,363,126,82,82,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650132,158,sistemas-1,302,,Grupo de Hilos 1-18,,true,,207,126,82,82,https://eisidev01.uis.edu.co/eisi,158,0,145
+1727278650290,2062,sistemas-2,200,,Grupo de Hilos 1-18,text,true,,139554,127,82,82,https://eisidev01.uis.edu.co/eisi/,241,0,0
+1727278650020,2369,sistemas,200,,Grupo de Hilos 1-6,text,true,,140124,379,81,81,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-6,text,true,,363,126,81,81,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,237,sistemas-1,302,,Grupo de Hilos 1-6,,true,,207,126,81,81,https://eisidev01.uis.edu.co/eisi,237,0,230
+1727278650283,2106,sistemas-2,200,,Grupo de Hilos 1-6,text,true,,139554,127,81,81,https://eisidev01.uis.edu.co/eisi/,145,0,0
+1727278650020,2381,sistemas,200,,Grupo de Hilos 1-2,text,true,,140124,379,80,80,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-2,text,true,,363,126,80,80,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,237,sistemas-1,302,,Grupo de Hilos 1-2,,true,,207,126,80,80,https://eisidev01.uis.edu.co/eisi,237,0,234
+1727278650283,2118,sistemas-2,200,,Grupo de Hilos 1-2,text,true,,139554,127,80,80,https://eisidev01.uis.edu.co/eisi/,164,0,0
+1727278650209,2210,sistemas,200,,Grupo de Hilos 1-26,text,true,,140124,379,79,79,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650209,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-26,text,true,,363,126,79,79,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650211,80,sistemas-1,302,,Grupo de Hilos 1-26,,true,,207,126,79,79,https://eisidev01.uis.edu.co/eisi,80,0,78
+1727278650291,2128,sistemas-2,200,,Grupo de Hilos 1-26,text,true,,139554,127,79,79,https://eisidev01.uis.edu.co/eisi/,191,0,0
+1727278650230,2222,sistemas,200,,Grupo de Hilos 1-28,text,true,,140124,379,78,78,https://eisidev01.uis.edu.co/eisi/,4,0,3
+1727278650230,4,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-28,text,true,,363,126,78,78,http://eisidev01.uis.edu.co/eisi,4,0,3
+1727278650234,56,sistemas-1,302,,Grupo de Hilos 1-28,,true,,207,126,78,78,https://eisidev01.uis.edu.co/eisi,56,0,48
+1727278650290,2162,sistemas-2,200,,Grupo de Hilos 1-28,text,true,,139554,127,78,78,https://eisidev01.uis.edu.co/eisi/,191,0,0
+1727278650300,2152,sistemas,200,,Grupo de Hilos 1-35,text,true,,140124,379,78,78,https://eisidev01.uis.edu.co/eisi/,0,0,0
+1727278650300,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-35,text,true,,363,126,78,78,http://eisidev01.uis.edu.co/eisi,0,0,0
+1727278650301,9,sistemas-1,302,,Grupo de Hilos 1-35,,true,,207,126,78,78,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650310,2142,sistemas-2,200,,Grupo de Hilos 1-35,text,true,,139554,127,78,78,https://eisidev01.uis.edu.co/eisi/,203,0,0
+1727278650265,2192,sistemas,200,,Grupo de Hilos 1-31,text,true,,140124,379,76,76,https://eisidev01.uis.edu.co/eisi/,8,0,1
+1727278650265,8,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-31,text,true,,363,126,76,76,http://eisidev01.uis.edu.co/eisi,8,0,1
+1727278650273,22,sistemas-1,302,,Grupo de Hilos 1-31,,true,,207,126,76,76,https://eisidev01.uis.edu.co/eisi,22,0,21
+1727278650296,2161,sistemas-2,200,,Grupo de Hilos 1-31,text,true,,139554,127,76,76,https://eisidev01.uis.edu.co/eisi/,208,0,0
+1727278650020,2478,sistemas,200,,Grupo de Hilos 1-4,text,true,,140124,379,75,75,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-4,text,true,,363,126,75,75,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,245,sistemas-1,302,,Grupo de Hilos 1-4,,true,,207,126,75,75,https://eisidev01.uis.edu.co/eisi,245,0,233
+1727278650291,2207,sistemas-2,200,,Grupo de Hilos 1-4,text,true,,139554,127,75,75,https://eisidev01.uis.edu.co/eisi/,224,0,0
+1727278650139,2361,sistemas,200,,Grupo de Hilos 1-19,text,true,,140124,379,74,74,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650139,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-19,text,true,,363,126,74,74,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650140,151,sistemas-1,302,,Grupo de Hilos 1-19,,true,,207,126,74,74,https://eisidev01.uis.edu.co/eisi,151,0,136
+1727278650291,2209,sistemas-2,200,,Grupo de Hilos 1-19,text,true,,139554,127,74,74,https://eisidev01.uis.edu.co/eisi/,190,0,0
+1727278650070,2432,sistemas,200,,Grupo de Hilos 1-12,text,true,,140124,379,73,73,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650070,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-12,text,true,,363,126,73,73,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650071,219,sistemas-1,302,,Grupo de Hilos 1-12,,true,,207,126,73,73,https://eisidev01.uis.edu.co/eisi,219,0,211
+1727278650290,2212,sistemas-2,200,,Grupo de Hilos 1-12,text,true,,139554,127,73,73,https://eisidev01.uis.edu.co/eisi/,198,0,0
+1727278650030,2474,sistemas,200,,Grupo de Hilos 1-8,text,true,,140124,379,72,72,https://eisidev01.uis.edu.co/eisi/,12,0,7
+1727278650030,14,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-8,text,true,,363,126,72,72,http://eisidev01.uis.edu.co/eisi,12,0,7
+1727278650046,238,sistemas-1,302,,Grupo de Hilos 1-8,,true,,207,126,72,72,https://eisidev01.uis.edu.co/eisi,238,0,237
+1727278650284,2220,sistemas-2,200,,Grupo de Hilos 1-8,text,true,,139554,127,72,72,https://eisidev01.uis.edu.co/eisi/,238,0,0
+1727278650199,2349,sistemas,200,,Grupo de Hilos 1-25,text,true,,140124,379,71,71,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650199,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-25,text,true,,363,126,71,71,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650201,92,sistemas-1,302,,Grupo de Hilos 1-25,,true,,207,126,71,71,https://eisidev01.uis.edu.co/eisi,92,0,90
+1727278650293,2255,sistemas-2,200,,Grupo de Hilos 1-25,text,true,,139554,127,71,71,https://eisidev01.uis.edu.co/eisi/,223,0,0
+1727278650399,2185,sistemas,200,,Grupo de Hilos 1-45,text,true,,140124,379,70,70,https://eisidev01.uis.edu.co/eisi/,11,0,11
+1727278650399,11,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-45,text,true,,363,126,70,70,http://eisidev01.uis.edu.co/eisi,11,0,11
+1727278650411,10,sistemas-1,302,,Grupo de Hilos 1-45,,true,,207,126,70,70,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650421,2163,sistemas-2,200,,Grupo de Hilos 1-45,text,true,,139554,127,70,70,https://eisidev01.uis.edu.co/eisi/,204,0,0
+1727278650292,2295,sistemas,200,,Grupo de Hilos 1-34,text,true,,140124,379,69,69,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650292,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-34,text,true,,363,126,69,69,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650294,20,sistemas-1,302,,Grupo de Hilos 1-34,,true,,207,126,69,69,https://eisidev01.uis.edu.co/eisi,20,0,8
+1727278650314,2273,sistemas-2,200,,Grupo de Hilos 1-34,text,true,,139554,127,69,69,https://eisidev01.uis.edu.co/eisi/,163,0,0
+1727278650039,2569,sistemas,200,,Grupo de Hilos 1-9,text,true,,140124,379,68,68,https://eisidev01.uis.edu.co/eisi/,3,0,0
+1727278650039,5,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-9,text,true,,363,126,68,68,http://eisidev01.uis.edu.co/eisi,3,0,0
+1727278650046,245,sistemas-1,302,,Grupo de Hilos 1-9,,true,,207,126,68,68,https://eisidev01.uis.edu.co/eisi,245,0,244
+1727278650292,2316,sistemas-2,200,,Grupo de Hilos 1-9,text,true,,139554,127,68,68,https://eisidev01.uis.edu.co/eisi/,222,0,0
+1727278650049,2566,sistemas,200,,Grupo de Hilos 1-10,text,true,,140124,379,67,67,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650049,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-10,text,true,,363,126,67,67,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650050,239,sistemas-1,302,,Grupo de Hilos 1-10,,true,,207,126,67,67,https://eisidev01.uis.edu.co/eisi,239,0,232
+1727278650289,2326,sistemas-2,200,,Grupo de Hilos 1-10,text,true,,139554,127,67,67,https://eisidev01.uis.edu.co/eisi/,221,0,0
+1727278650170,2448,sistemas,200,,Grupo de Hilos 1-22,text,true,,140124,379,66,66,https://eisidev01.uis.edu.co/eisi/,7,0,6
+1727278650170,7,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-22,text,true,,363,126,66,66,http://eisidev01.uis.edu.co/eisi,7,0,6
+1727278650178,113,sistemas-1,302,,Grupo de Hilos 1-22,,true,,207,126,66,66,https://eisidev01.uis.edu.co/eisi,113,0,111
+1727278650291,2327,sistemas-2,200,,Grupo de Hilos 1-22,text,true,,139554,127,66,66,https://eisidev01.uis.edu.co/eisi/,216,0,0
+1727278650329,2308,sistemas,200,,Grupo de Hilos 1-38,text,true,,140124,379,65,65,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650329,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-38,text,true,,363,126,65,65,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650330,10,sistemas-1,302,,Grupo de Hilos 1-38,,true,,207,126,65,65,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650340,2297,sistemas-2,200,,Grupo de Hilos 1-38,text,true,,139554,127,65,65,https://eisidev01.uis.edu.co/eisi/,234,0,0
+1727278650429,2213,sistemas,200,,Grupo de Hilos 1-48,text,true,,140124,379,64,64,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650429,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-48,text,true,,363,126,64,64,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650431,11,sistemas-1,302,,Grupo de Hilos 1-48,,true,,207,126,64,64,https://eisidev01.uis.edu.co/eisi,11,0,7
+1727278650442,2200,sistemas-2,200,,Grupo de Hilos 1-48,text,true,,139554,127,64,64,https://eisidev01.uis.edu.co/eisi/,255,0,0
+1727278650089,2563,sistemas,200,,Grupo de Hilos 1-14,text,true,,140124,379,63,63,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650089,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-14,text,true,,363,126,63,63,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650090,198,sistemas-1,302,,Grupo de Hilos 1-14,,true,,207,126,63,63,https://eisidev01.uis.edu.co/eisi,198,0,191
+1727278650289,2363,sistemas-2,200,,Grupo de Hilos 1-14,text,true,,139554,127,63,63,https://eisidev01.uis.edu.co/eisi/,227,0,0
+1727278650241,2416,sistemas,200,,Grupo de Hilos 1-29,text,true,,140124,379,62,62,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650241,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-29,text,true,,363,126,62,62,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650243,47,sistemas-1,302,,Grupo de Hilos 1-29,,true,,207,126,62,62,https://eisidev01.uis.edu.co/eisi,47,0,38
+1727278650291,2366,sistemas-2,200,,Grupo de Hilos 1-29,text,true,,139554,127,62,62,https://eisidev01.uis.edu.co/eisi/,253,0,0
+1727278650020,2649,sistemas,200,,Grupo de Hilos 1-7,text,true,,140124,379,61,61,https://eisidev01.uis.edu.co/eisi/,22,0,17
+1727278650020,24,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-7,text,true,,363,126,61,61,http://eisidev01.uis.edu.co/eisi,22,0,17
+1727278650046,246,sistemas-1,302,,Grupo de Hilos 1-7,,true,,207,126,61,61,https://eisidev01.uis.edu.co/eisi,246,0,236
+1727278650292,2377,sistemas-2,200,,Grupo de Hilos 1-7,text,true,,139554,127,61,61,https://eisidev01.uis.edu.co/eisi/,266,0,0
+1727278650419,2279,sistemas,200,,Grupo de Hilos 1-47,text,true,,140124,379,60,60,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650419,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-47,text,true,,363,126,60,60,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650421,9,sistemas-1,302,,Grupo de Hilos 1-47,,true,,207,126,60,60,https://eisidev01.uis.edu.co/eisi,9,0,7
+1727278650431,2267,sistemas-2,200,,Grupo de Hilos 1-47,text,true,,139554,127,60,60,https://eisidev01.uis.edu.co/eisi/,264,0,0
+1727278650359,2339,sistemas,200,,Grupo de Hilos 1-41,text,true,,140124,379,60,60,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650459,2239,sistemas,200,,Grupo de Hilos 1-51,text,true,,140124,379,60,60,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650359,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-41,text,true,,363,126,60,60,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650459,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-51,text,true,,363,126,60,60,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650362,11,sistemas-1,302,,Grupo de Hilos 1-41,,true,,207,126,60,60,https://eisidev01.uis.edu.co/eisi,11,0,9
+1727278650461,9,sistemas-1,302,,Grupo de Hilos 1-51,,true,,207,126,60,60,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650374,2324,sistemas-2,200,,Grupo de Hilos 1-41,text,true,,139554,127,60,60,https://eisidev01.uis.edu.co/eisi/,300,0,0
+1727278650470,2228,sistemas-2,200,,Grupo de Hilos 1-51,text,true,,139554,127,60,60,https://eisidev01.uis.edu.co/eisi/,269,0,0
+1727278650499,2206,sistemas,200,,Grupo de Hilos 1-55,text,true,,140124,379,57,57,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650499,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-55,text,true,,363,126,57,57,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650500,9,sistemas-1,302,,Grupo de Hilos 1-55,,true,,207,126,57,57,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650509,2196,sistemas-2,200,,Grupo de Hilos 1-55,text,true,,139554,127,57,57,https://eisidev01.uis.edu.co/eisi/,273,0,0
+1727278650410,2305,sistemas,200,,Grupo de Hilos 1-46,text,true,,140124,379,56,56,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650410,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-46,text,true,,363,126,56,56,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650411,10,sistemas-1,302,,Grupo de Hilos 1-46,,true,,207,126,56,56,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650421,2294,sistemas-2,200,,Grupo de Hilos 1-46,text,true,,139554,127,56,56,https://eisidev01.uis.edu.co/eisi/,302,0,0
+1727278650389,2327,sistemas,200,,Grupo de Hilos 1-44,text,true,,140124,379,55,55,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650389,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-44,text,true,,363,126,55,55,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650391,11,sistemas-1,302,,Grupo de Hilos 1-44,,true,,207,126,55,55,https://eisidev01.uis.edu.co/eisi,11,0,7
+1727278650403,2313,sistemas-2,200,,Grupo de Hilos 1-44,text,true,,139554,127,55,55,https://eisidev01.uis.edu.co/eisi/,245,0,0
+1727278650180,2540,sistemas,200,,Grupo de Hilos 1-23,text,true,,140124,379,54,54,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650180,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-23,text,true,,363,126,54,54,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650181,109,sistemas-1,302,,Grupo de Hilos 1-23,,true,,207,126,54,54,https://eisidev01.uis.edu.co/eisi,109,0,98
+1727278650290,2430,sistemas-2,200,,Grupo de Hilos 1-23,text,true,,139554,127,54,54,https://eisidev01.uis.edu.co/eisi/,200,0,0
+1727278650470,2362,sistemas,200,,Grupo de Hilos 1-52,text,true,,140124,379,53,53,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650470,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-52,text,true,,363,126,53,53,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650471,8,sistemas-1,302,,Grupo de Hilos 1-52,,true,,207,126,53,53,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650479,2353,sistemas-2,200,,Grupo de Hilos 1-52,text,true,,139554,127,53,53,https://eisidev01.uis.edu.co/eisi/,232,0,0
+1727278650379,2456,sistemas,200,,Grupo de Hilos 1-43,text,true,,140124,379,52,52,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650379,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-43,text,true,,363,126,52,52,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650381,10,sistemas-1,302,,Grupo de Hilos 1-43,,true,,207,126,52,52,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650391,2444,sistemas-2,200,,Grupo de Hilos 1-43,text,true,,139554,127,52,52,https://eisidev01.uis.edu.co/eisi/,274,0,0
+1727278650350,2486,sistemas,200,,Grupo de Hilos 1-40,text,true,,140124,379,52,52,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650350,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-40,text,true,,363,126,52,52,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650351,10,sistemas-1,302,,Grupo de Hilos 1-40,,true,,207,126,52,52,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650361,2475,sistemas-2,200,,Grupo de Hilos 1-40,text,true,,139554,127,52,52,https://eisidev01.uis.edu.co/eisi/,219,0,0
+1727278650489,2357,sistemas,200,,Grupo de Hilos 1-54,text,true,,140124,379,50,50,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650489,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-54,text,true,,363,126,50,50,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650490,8,sistemas-1,302,,Grupo de Hilos 1-54,,true,,207,126,50,50,https://eisidev01.uis.edu.co/eisi,8,0,6
+1727278650499,2347,sistemas-2,200,,Grupo de Hilos 1-54,text,true,,139554,127,50,50,https://eisidev01.uis.edu.co/eisi/,266,0,0
+1727278650339,2524,sistemas,200,,Grupo de Hilos 1-39,text,true,,140124,379,49,49,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650509,2354,sistemas,200,,Grupo de Hilos 1-56,text,true,,140124,379,49,49,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650339,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-39,text,true,,363,126,49,49,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650509,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-56,text,true,,363,126,49,49,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650341,9,sistemas-1,302,,Grupo de Hilos 1-39,,true,,207,126,49,49,https://eisidev01.uis.edu.co/eisi,9,0,7
+1727278650510,8,sistemas-1,302,,Grupo de Hilos 1-56,,true,,207,126,49,49,https://eisidev01.uis.edu.co/eisi,8,0,6
+1727278650350,2513,sistemas-2,200,,Grupo de Hilos 1-39,text,true,,139554,127,49,49,https://eisidev01.uis.edu.co/eisi/,265,0,0
+1727278650518,2345,sistemas-2,200,,Grupo de Hilos 1-56,text,true,,139554,127,49,49,https://eisidev01.uis.edu.co/eisi/,298,0,0
+1727278650439,2427,sistemas,200,,Grupo de Hilos 1-49,text,true,,140124,379,48,48,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650439,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-49,text,true,,363,126,48,48,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650441,11,sistemas-1,302,,Grupo de Hilos 1-49,,true,,207,126,48,48,https://eisidev01.uis.edu.co/eisi,11,0,7
+1727278650452,2414,sistemas-2,200,,Grupo de Hilos 1-49,text,true,,139554,127,48,48,https://eisidev01.uis.edu.co/eisi/,241,0,0
+1727278650449,2420,sistemas,200,,Grupo de Hilos 1-50,text,true,,140124,379,46,46,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650449,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-50,text,true,,363,126,46,46,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650451,13,sistemas-1,302,,Grupo de Hilos 1-50,,true,,207,126,46,46,https://eisidev01.uis.edu.co/eisi,13,0,8
+1727278650464,2405,sistemas-2,200,,Grupo de Hilos 1-50,text,true,,139554,127,46,46,https://eisidev01.uis.edu.co/eisi/,320,0,0
+1727278650759,2129,sistemas,200,,Grupo de Hilos 1-81,text,true,,140124,379,45,45,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650759,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-81,text,true,,363,126,45,45,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650550,2338,sistemas,200,,Grupo de Hilos 1-60,text,true,,140124,379,45,45,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650529,2359,sistemas,200,,Grupo de Hilos 1-58,text,true,,140124,379,45,45,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650760,7,sistemas-1,302,,Grupo de Hilos 1-81,,true,,207,126,45,45,https://eisidev01.uis.edu.co/eisi,7,0,4
+1727278650550,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-60,text,true,,363,126,45,45,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650767,2121,sistemas-2,200,,Grupo de Hilos 1-81,text,true,,139554,127,45,45,https://eisidev01.uis.edu.co/eisi/,382,0,0
+1727278650529,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-58,text,true,,363,126,45,45,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650551,9,sistemas-1,302,,Grupo de Hilos 1-60,,true,,207,126,45,45,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650531,8,sistemas-1,302,,Grupo de Hilos 1-58,,true,,207,126,45,45,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650560,2328,sistemas-2,200,,Grupo de Hilos 1-60,text,true,,139554,127,45,45,https://eisidev01.uis.edu.co/eisi/,320,0,0
+1727278650539,2349,sistemas-2,200,,Grupo de Hilos 1-58,text,true,,139554,127,45,45,https://eisidev01.uis.edu.co/eisi/,324,0,0
+1727278650519,2371,sistemas,200,,Grupo de Hilos 1-57,text,true,,140124,379,42,42,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650519,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-57,text,true,,363,126,42,42,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650520,9,sistemas-1,302,,Grupo de Hilos 1-57,,true,,207,126,42,42,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650529,2361,sistemas-2,200,,Grupo de Hilos 1-57,text,true,,139554,127,42,42,https://eisidev01.uis.edu.co/eisi/,405,0,0
+1727278650649,2287,sistemas,200,,Grupo de Hilos 1-70,text,true,,140124,379,41,41,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650649,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-70,text,true,,363,126,41,41,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650650,7,sistemas-1,302,,Grupo de Hilos 1-70,,true,,207,126,41,41,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650657,2279,sistemas-2,200,,Grupo de Hilos 1-70,text,true,,139554,127,41,41,https://eisidev01.uis.edu.co/eisi/,368,0,0
+1727278650659,2293,sistemas,200,,Grupo de Hilos 1-71,text,true,,140124,379,40,40,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650659,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-71,text,true,,363,126,40,40,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650660,8,sistemas-1,302,,Grupo de Hilos 1-71,,true,,207,126,40,40,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650668,2284,sistemas-2,200,,Grupo de Hilos 1-71,text,true,,139554,127,40,40,https://eisidev01.uis.edu.co/eisi/,351,0,0
+1727278650610,2379,sistemas,200,,Grupo de Hilos 1-66,text,true,,140124,379,39,39,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650610,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-66,text,true,,363,126,39,39,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650612,8,sistemas-1,302,,Grupo de Hilos 1-66,,true,,207,126,39,39,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650620,2369,sistemas-2,200,,Grupo de Hilos 1-66,text,true,,139554,127,39,39,https://eisidev01.uis.edu.co/eisi/,292,0,0
+1727278650589,2400,sistemas,200,,Grupo de Hilos 1-64,text,true,,140124,379,39,39,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650589,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-64,text,true,,363,126,39,39,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650590,7,sistemas-1,302,,Grupo de Hilos 1-64,,true,,207,126,39,39,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650597,2392,sistemas-2,200,,Grupo de Hilos 1-64,text,true,,139554,127,39,39,https://eisidev01.uis.edu.co/eisi/,305,0,0
+1727278650539,2467,sistemas,200,,Grupo de Hilos 1-59,text,true,,140124,379,37,37,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650479,2527,sistemas,200,,Grupo de Hilos 1-53,text,true,,140124,379,37,37,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650539,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-59,text,true,,363,126,37,37,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650479,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-53,text,true,,363,126,37,37,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650541,9,sistemas-1,302,,Grupo de Hilos 1-59,,true,,207,126,37,37,https://eisidev01.uis.edu.co/eisi,9,0,4
+1727278650481,9,sistemas-1,302,,Grupo de Hilos 1-53,,true,,207,126,37,37,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650550,2456,sistemas-2,200,,Grupo de Hilos 1-59,text,true,,139554,127,37,37,https://eisidev01.uis.edu.co/eisi/,324,0,0
+1727278650490,2516,sistemas-2,200,,Grupo de Hilos 1-53,text,true,,139554,127,37,37,https://eisidev01.uis.edu.co/eisi/,327,0,0
+1727278650579,2441,sistemas,200,,Grupo de Hilos 1-63,text,true,,140124,379,35,35,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650579,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-63,text,true,,363,126,35,35,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650580,7,sistemas-1,302,,Grupo de Hilos 1-63,,true,,207,126,35,35,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650587,2433,sistemas-2,200,,Grupo de Hilos 1-63,text,true,,139554,127,35,35,https://eisidev01.uis.edu.co/eisi/,396,0,0
+1727278650569,2473,sistemas,200,,Grupo de Hilos 1-62,text,true,,140124,379,34,34,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650569,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-62,text,true,,363,126,34,34,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650570,7,sistemas-1,302,,Grupo de Hilos 1-62,,true,,207,126,34,34,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650577,2465,sistemas-2,200,,Grupo de Hilos 1-62,text,true,,139554,127,34,34,https://eisidev01.uis.edu.co/eisi/,413,0,0
+1727278650599,2450,sistemas,200,,Grupo de Hilos 1-65,text,true,,140124,379,33,33,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650599,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-65,text,true,,363,126,33,33,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650601,10,sistemas-1,302,,Grupo de Hilos 1-65,,true,,207,126,33,33,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650611,2438,sistemas-2,200,,Grupo de Hilos 1-65,text,true,,139554,127,33,33,https://eisidev01.uis.edu.co/eisi/,382,0,0
+1727278650789,2268,sistemas,200,,Grupo de Hilos 1-84,text,true,,140124,379,32,32,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650789,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-84,text,true,,363,126,32,32,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650790,8,sistemas-1,302,,Grupo de Hilos 1-84,,true,,207,126,32,32,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650798,2259,sistemas-2,200,,Grupo de Hilos 1-84,text,true,,139554,127,32,32,https://eisidev01.uis.edu.co/eisi/,357,0,0
+1727278650729,2331,sistemas,200,,Grupo de Hilos 1-78,text,true,,140124,379,31,31,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650729,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-78,text,true,,363,126,31,31,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650731,9,sistemas-1,302,,Grupo de Hilos 1-78,,true,,207,126,31,31,https://eisidev01.uis.edu.co/eisi,9,0,6
+1727278650740,2320,sistemas-2,200,,Grupo de Hilos 1-78,text,true,,139554,127,31,31,https://eisidev01.uis.edu.co/eisi/,293,0,0
+1727278650679,2399,sistemas,200,,Grupo de Hilos 1-73,text,true,,140124,379,30,30,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650679,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-73,text,true,,363,126,30,30,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650681,8,sistemas-1,302,,Grupo de Hilos 1-73,,true,,207,126,30,30,https://eisidev01.uis.edu.co/eisi,8,0,6
+1727278650689,2389,sistemas-2,200,,Grupo de Hilos 1-73,text,true,,139554,127,30,30,https://eisidev01.uis.edu.co/eisi/,406,0,0
+1727278650559,2524,sistemas,200,,Grupo de Hilos 1-61,text,true,,140124,379,29,29,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650559,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-61,text,true,,363,126,29,29,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650560,8,sistemas-1,302,,Grupo de Hilos 1-61,,true,,207,126,29,29,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650568,2515,sistemas-2,200,,Grupo de Hilos 1-61,text,true,,139554,127,29,29,https://eisidev01.uis.edu.co/eisi/,333,0,0
+1727278650620,2474,sistemas,200,,Grupo de Hilos 1-67,text,true,,140124,379,28,28,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650620,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-67,text,true,,363,126,28,28,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650621,8,sistemas-1,302,,Grupo de Hilos 1-67,,true,,207,126,28,28,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650629,2465,sistemas-2,200,,Grupo de Hilos 1-67,text,true,,139554,127,28,28,https://eisidev01.uis.edu.co/eisi/,268,0,0
+1727278650719,2376,sistemas,200,,Grupo de Hilos 1-77,text,true,,140124,379,27,27,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650719,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-77,text,true,,363,126,27,27,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650720,7,sistemas-1,302,,Grupo de Hilos 1-77,,true,,207,126,27,27,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650727,2368,sistemas-2,200,,Grupo de Hilos 1-77,text,true,,139554,127,27,27,https://eisidev01.uis.edu.co/eisi/,329,0,0
+1727278650669,2457,sistemas,200,,Grupo de Hilos 1-72,text,true,,140124,379,26,26,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650669,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-72,text,true,,363,126,26,26,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650670,10,sistemas-1,302,,Grupo de Hilos 1-72,,true,,207,126,26,26,https://eisidev01.uis.edu.co/eisi,10,0,7
+1727278650680,2446,sistemas-2,200,,Grupo de Hilos 1-72,text,true,,139554,127,26,26,https://eisidev01.uis.edu.co/eisi/,489,0,0
+1727278650709,2426,sistemas,200,,Grupo de Hilos 1-76,text,true,,140124,379,25,25,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650709,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-76,text,true,,363,126,25,25,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650710,8,sistemas-1,302,,Grupo de Hilos 1-76,,true,,207,126,25,25,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650719,2416,sistemas-2,200,,Grupo de Hilos 1-76,text,true,,139554,127,25,25,https://eisidev01.uis.edu.co/eisi/,381,0,0
+1727278650739,2410,sistemas,200,,Grupo de Hilos 1-79,text,true,,140124,379,24,24,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650739,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-79,text,true,,363,126,24,24,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650741,8,sistemas-1,302,,Grupo de Hilos 1-79,,true,,207,126,24,24,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650749,2400,sistemas-2,200,,Grupo de Hilos 1-79,text,true,,139554,127,24,24,https://eisidev01.uis.edu.co/eisi/,409,0,0
+1727278650639,2517,sistemas,200,,Grupo de Hilos 1-69,text,true,,140124,379,23,23,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650639,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-69,text,true,,363,126,23,23,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650640,7,sistemas-1,302,,Grupo de Hilos 1-69,,true,,207,126,23,23,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650648,2508,sistemas-2,200,,Grupo de Hilos 1-69,text,true,,139554,127,23,23,https://eisidev01.uis.edu.co/eisi/,438,0,0
+1727278650689,2474,sistemas,200,,Grupo de Hilos 1-74,text,true,,140124,379,22,22,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650689,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-74,text,true,,363,126,22,22,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650690,8,sistemas-1,302,,Grupo de Hilos 1-74,,true,,207,126,22,22,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650699,2464,sistemas-2,200,,Grupo de Hilos 1-74,text,true,,139554,127,22,22,https://eisidev01.uis.edu.co/eisi/,504,0,0
+1727278650749,2436,sistemas,200,,Grupo de Hilos 1-80,text,true,,140124,379,21,21,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650749,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-80,text,true,,363,126,21,21,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650751,7,sistemas-1,302,,Grupo de Hilos 1-80,,true,,207,126,21,21,https://eisidev01.uis.edu.co/eisi,7,0,4
+1727278650758,2427,sistemas-2,200,,Grupo de Hilos 1-80,text,true,,139554,127,21,21,https://eisidev01.uis.edu.co/eisi/,515,0,0
+1727278650629,2561,sistemas,200,,Grupo de Hilos 1-68,text,true,,140124,379,20,20,https://eisidev01.uis.edu.co/eisi/,0,0,0
+1727278650629,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-68,text,true,,363,126,20,20,http://eisidev01.uis.edu.co/eisi,0,0,0
+1727278650630,6,sistemas-1,302,,Grupo de Hilos 1-68,,true,,207,126,20,20,https://eisidev01.uis.edu.co/eisi,6,0,4
+1727278650636,2554,sistemas-2,200,,Grupo de Hilos 1-68,text,true,,139554,127,20,20,https://eisidev01.uis.edu.co/eisi/,410,0,0
+1727278650769,2427,sistemas,200,,Grupo de Hilos 1-82,text,true,,140124,379,19,19,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650769,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-82,text,true,,363,126,19,19,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650770,7,sistemas-1,302,,Grupo de Hilos 1-82,,true,,207,126,19,19,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650699,2497,sistemas,200,,Grupo de Hilos 1-75,text,true,,140124,379,19,19,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650777,2419,sistemas-2,200,,Grupo de Hilos 1-82,text,true,,139554,127,19,19,https://eisidev01.uis.edu.co/eisi/,479,0,0
+1727278650699,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-75,text,true,,363,126,19,19,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650701,9,sistemas-1,302,,Grupo de Hilos 1-75,,true,,207,126,19,19,https://eisidev01.uis.edu.co/eisi,9,0,5
+1727278650710,2486,sistemas-2,200,,Grupo de Hilos 1-75,text,true,,139554,127,19,19,https://eisidev01.uis.edu.co/eisi/,482,0,0
+1727278650799,2400,sistemas,200,,Grupo de Hilos 1-85,text,true,,140124,379,17,17,https://eisidev01.uis.edu.co/eisi/,0,0,0
+1727278650799,0,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-85,text,true,,363,126,17,17,http://eisidev01.uis.edu.co/eisi,0,0,0
+1727278650800,7,sistemas-1,302,,Grupo de Hilos 1-85,,true,,207,126,17,17,https://eisidev01.uis.edu.co/eisi,7,0,5
+1727278650807,2392,sistemas-2,200,,Grupo de Hilos 1-85,text,true,,139554,127,17,17,https://eisidev01.uis.edu.co/eisi/,376,0,0
+1727278650839,2365,sistemas,200,,Grupo de Hilos 1-89,text,true,,140124,379,16,16,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650839,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-89,text,true,,363,126,16,16,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650840,8,sistemas-1,302,,Grupo de Hilos 1-89,,true,,207,126,16,16,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650848,2356,sistemas-2,200,,Grupo de Hilos 1-89,text,true,,139554,127,16,16,https://eisidev01.uis.edu.co/eisi/,444,0,0
+1727278650899,2307,sistemas,200,,Grupo de Hilos 1-95,text,true,,140124,379,15,15,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650899,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-95,text,true,,363,126,15,15,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650900,8,sistemas-1,302,,Grupo de Hilos 1-95,,true,,207,126,15,15,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650908,2298,sistemas-2,200,,Grupo de Hilos 1-95,text,true,,139554,127,15,15,https://eisidev01.uis.edu.co/eisi/,570,0,0
+1727278650819,2391,sistemas,200,,Grupo de Hilos 1-87,text,true,,140124,379,14,14,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650819,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-87,text,true,,363,126,14,14,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650821,8,sistemas-1,302,,Grupo de Hilos 1-87,,true,,207,126,14,14,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650829,2381,sistemas-2,200,,Grupo de Hilos 1-87,text,true,,139554,127,14,14,https://eisidev01.uis.edu.co/eisi/,413,0,0
+1727278650908,2305,sistemas,200,,Grupo de Hilos 1-96,text,true,,140124,379,13,13,https://eisidev01.uis.edu.co/eisi/,2,0,1
+1727278650908,2,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-96,text,true,,363,126,13,13,http://eisidev01.uis.edu.co/eisi,2,0,1
+1727278650910,8,sistemas-1,302,,Grupo de Hilos 1-96,,true,,207,126,13,13,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650918,2295,sistemas-2,200,,Grupo de Hilos 1-96,text,true,,139554,127,13,13,https://eisidev01.uis.edu.co/eisi/,570,0,0
+1727278650859,2356,sistemas,200,,Grupo de Hilos 1-91,text,true,,140124,379,12,12,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650859,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-91,text,true,,363,126,12,12,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650860,10,sistemas-1,302,,Grupo de Hilos 1-91,,true,,207,126,12,12,https://eisidev01.uis.edu.co/eisi,10,0,5
+1727278650870,2345,sistemas-2,200,,Grupo de Hilos 1-91,text,true,,139554,127,12,12,https://eisidev01.uis.edu.co/eisi/,623,0,0
+1727278650778,2440,sistemas,200,,Grupo de Hilos 1-83,text,true,,140124,379,11,11,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650778,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-83,text,true,,363,126,11,11,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650780,7,sistemas-1,302,,Grupo de Hilos 1-83,,true,,207,126,11,11,https://eisidev01.uis.edu.co/eisi,7,0,4
+1727278650787,2431,sistemas-2,200,,Grupo de Hilos 1-83,text,true,,139554,127,11,11,https://eisidev01.uis.edu.co/eisi/,416,0,0
+1727278650809,2410,sistemas,200,,Grupo de Hilos 1-86,text,true,,140124,379,11,11,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650809,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-86,text,true,,363,126,11,11,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650810,8,sistemas-1,302,,Grupo de Hilos 1-86,,true,,207,126,11,11,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650819,2400,sistemas-2,200,,Grupo de Hilos 1-86,text,true,,139554,127,11,11,https://eisidev01.uis.edu.co/eisi/,434,0,0
+1727278650889,2332,sistemas,200,,Grupo de Hilos 1-94,text,true,,140124,379,9,9,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650889,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-94,text,true,,363,126,9,9,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650891,6,sistemas-1,302,,Grupo de Hilos 1-94,,true,,207,126,9,9,https://eisidev01.uis.edu.co/eisi,6,0,4
+1727278650898,2323,sistemas-2,200,,Grupo de Hilos 1-94,text,true,,139554,127,9,9,https://eisidev01.uis.edu.co/eisi/,319,0,0
+1727278650919,2304,sistemas,200,,Grupo de Hilos 1-97,text,true,,140124,379,8,8,https://eisidev01.uis.edu.co/eisi/,0,0,0
+1727278650919,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-97,text,true,,363,126,8,8,http://eisidev01.uis.edu.co/eisi,0,0,0
+1727278650920,8,sistemas-1,302,,Grupo de Hilos 1-97,,true,,207,126,8,8,https://eisidev01.uis.edu.co/eisi,8,0,4
+1727278650928,2295,sistemas-2,200,,Grupo de Hilos 1-97,text,true,,139554,127,8,8,https://eisidev01.uis.edu.co/eisi/,545,0,0
+1727278650848,2376,sistemas,200,,Grupo de Hilos 1-90,text,true,,140124,379,8,8,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650848,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-90,text,true,,363,126,8,8,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650850,7,sistemas-1,302,,Grupo de Hilos 1-90,,true,,207,126,8,8,https://eisidev01.uis.edu.co/eisi,7,0,4
+1727278650857,2367,sistemas-2,200,,Grupo de Hilos 1-90,text,true,,139554,127,8,8,https://eisidev01.uis.edu.co/eisi/,491,0,0
+1727278650949,2276,sistemas,200,,Grupo de Hilos 1-100,text,true,,140124,379,6,6,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650949,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-100,text,true,,363,126,6,6,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650829,2396,sistemas,200,,Grupo de Hilos 1-88,text,true,,140124,379,6,6,https://eisidev01.uis.edu.co/eisi/,1,0,1
+1727278650950,6,sistemas-1,302,,Grupo de Hilos 1-100,,true,,207,126,6,6,https://eisidev01.uis.edu.co/eisi,6,0,4
+1727278650829,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-88,text,true,,363,126,6,6,http://eisidev01.uis.edu.co/eisi,1,0,1
+1727278650957,2268,sistemas-2,200,,Grupo de Hilos 1-100,text,true,,139554,127,6,6,https://eisidev01.uis.edu.co/eisi/,619,0,0
+1727278650830,8,sistemas-1,302,,Grupo de Hilos 1-88,,true,,207,126,6,6,https://eisidev01.uis.edu.co/eisi,8,0,6
+1727278650838,2387,sistemas-2,200,,Grupo de Hilos 1-88,text,true,,139554,127,6,6,https://eisidev01.uis.edu.co/eisi/,338,0,0
+1727278650939,2287,sistemas,200,,Grupo de Hilos 1-99,text,true,,140124,379,6,6,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650939,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-99,text,true,,363,126,6,6,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650869,2357,sistemas,200,,Grupo de Hilos 1-92,text,true,,140124,379,6,6,https://eisidev01.uis.edu.co/eisi/,0,0,0
+1727278650940,8,sistemas-1,302,,Grupo de Hilos 1-99,,true,,207,126,6,6,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650869,0,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-92,text,true,,363,126,6,6,http://eisidev01.uis.edu.co/eisi,0,0,0
+1727278650948,2278,sistemas-2,200,,Grupo de Hilos 1-99,text,true,,139554,127,6,6,https://eisidev01.uis.edu.co/eisi/,537,0,0
+1727278650870,6,sistemas-1,302,,Grupo de Hilos 1-92,,true,,207,126,6,6,https://eisidev01.uis.edu.co/eisi,6,0,4
+1727278650876,2350,sistemas-2,200,,Grupo de Hilos 1-92,text,true,,139554,127,6,6,https://eisidev01.uis.edu.co/eisi/,649,0,0
+1727278650879,2347,sistemas,200,,Grupo de Hilos 1-93,text,true,,140124,379,6,6,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650879,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-93,text,true,,363,126,6,6,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650880,7,sistemas-1,302,,Grupo de Hilos 1-93,,true,,207,126,6,6,https://eisidev01.uis.edu.co/eisi,7,0,4
+1727278650887,2339,sistemas-2,200,,Grupo de Hilos 1-93,text,true,,139554,127,6,6,https://eisidev01.uis.edu.co/eisi/,586,0,0
+1727278650929,2298,sistemas,200,,Grupo de Hilos 1-98,text,true,,140124,379,2,2,https://eisidev01.uis.edu.co/eisi/,1,0,0
+1727278650929,1,sistemas-0,301,Moved Permanently,Grupo de Hilos 1-98,text,true,,363,126,2,2,http://eisidev01.uis.edu.co/eisi,1,0,0
+1727278650930,8,sistemas-1,302,,Grupo de Hilos 1-98,,true,,207,126,2,2,https://eisidev01.uis.edu.co/eisi,8,0,5
+1727278650938,2289,sistemas-2,200,,Grupo de Hilos 1-98,text,true,,139554,127,2,2,https://eisidev01.uis.edu.co/eisi/,521,0,0
