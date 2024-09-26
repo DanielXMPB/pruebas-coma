@@ -20,7 +20,7 @@
         </elementProp>
       </ThreadGroup>
       <hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="sistemas">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="sistemas" enabled="true">
           <stringProp name="HTTPSampler.domain">eisidev01.uis.edu.co</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.path">/eisi</stringProp>
@@ -33,7 +33,7 @@
           </elementProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="fisicomecanicas">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="fisicomecanicas" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9000</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -47,7 +47,7 @@
           </elementProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="disindustrial">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="disindustrial" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9001</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -61,7 +61,7 @@
           </elementProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="fisicoquimicas">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="fisicoquimicas" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9002</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -75,7 +75,7 @@
           </elementProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="trabajosocial">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="trabajosocial" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9003</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -89,7 +89,7 @@
           </elementProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="humanas">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="humanas" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9004</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -103,7 +103,7 @@
           </elementProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="vacadem">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="vacadem" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9005</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -246,20 +246,6 @@
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="idiomas" enabled="true">
           <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
           <stringProp name="HTTPSampler.port">9016</stringProp>
-          <stringProp name="HTTPSampler.protocol">http</stringProp>
-          <stringProp name="HTTPSampler.path">/eisi</stringProp>
-          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-          <stringProp name="HTTPSampler.method">GET</stringProp>
-          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="Variables definidas por el Usuario">
-            <collectionProp name="Arguments.arguments"/>
-          </elementProp>
-        </HTTPSamplerProxy>
-        <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ipred" enabled="true">
-          <stringProp name="HTTPSampler.domain">10.6.100.3</stringProp>
-          <stringProp name="HTTPSampler.port">9017</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.path">/eisi</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
@@ -518,7 +504,7 @@
         <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
-      <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Informe Agregado">
+      <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Informe Agregado" enabled="true">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
           <name>saveConfig</name>
